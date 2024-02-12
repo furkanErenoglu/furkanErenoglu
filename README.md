@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am currently learning Python and Java Spring Boot 
+
 ![Furkan's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanErenoglu&&theme=tokyonight)
 
 ![Furkan's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=furkanErenoglu&show_icons=true&locale=en&layout=compact&theme=tokyonight)
